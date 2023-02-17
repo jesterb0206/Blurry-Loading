@@ -15,11 +15,11 @@
 
 <br>
 
-![Blurry Loading]()
+![Blurry Loading](images/blurry-loading.png)
 
 <br>
 
-[Deployment]()
+[Deployment](https://jesterb0206.github.io/Blurry-Loading/)
 
 <br>
 
